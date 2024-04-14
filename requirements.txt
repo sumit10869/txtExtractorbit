@@ -19,7 +19,7 @@ aiofiles
 yt-dlp==2023.6.22
 pycryptodome==3.18.0
 PySocks==1.7.1
-websockets==9.1
+
 psutil
 async-lru==2.0.2
 helper
